@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="hexpa">
+       <file>images/main.ico</file>
+       <file>images/main.png</file>
+    </qresource>
+</RCC>
